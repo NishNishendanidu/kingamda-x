@@ -14,8 +14,8 @@
 **Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. ✨️
 
 ---
+owner nishen 
 
-<h1> <💡> Alpha-X <💡> </h1>
 
 ```
 Alpha-X Bot - Alpha Userbot is Open Source software open to development. 
