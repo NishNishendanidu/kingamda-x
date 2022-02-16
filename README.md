@@ -595,6 +595,15 @@ Eg: .dict enUS;lead
 `🪀 Command:` quote<br>
 `✨️ Description:` Send random quotes. 
 
+´🪀 Command:` get st
+
+`✨️ Description:` download status 
+    . 
+
+`
+
+
+
 >🤩 New features comming soon...
 
 #### E-Media Plugin Commands 🛠️
