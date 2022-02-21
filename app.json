@@ -1,21 +1,17 @@
 {
-    "name": "Alpha-X Whatsapp User Bot", 
-    "description": "🚀 Alpha-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉 | World first fully customizable bot for WhatsApp.",
-    "logo": "https://telegra.ph/file/c265e654e3ec87c78d984.jpg",
+    "name": "kingamda-x Whatsapp User Bot", 
+    "description": "🚀 kingamda-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉 | World first fully customizable bot for WhatsApp.",
+    "logo": "https://i.ibb.co/mJqr3d8/Photo-1859807427.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "alpha", "node.js", "fb", "wtzp", "userbot", "insta", "srilanka", "keywords", "team"],
-    "repository": "https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot",
-    "website": "https://alpha-x.ml/wa-bot",
+    "repository": "https://github.com/NishNishendanidu/Alpha-X-WA-Bot-Installer-2.git",
+    "website": "https://github.com/NishNishendanidu/Alpha-X-WA-Bot-Installer-2.git",
     "success_url": "https://alpha-x.ml/wa-bot",
     "stack": "container",
     "env": {
-        "_ALPHA_SESSION": {
+        "_KING_AMDA-X_SESSION": {
             "description": "Type here your QR code. Get it using >> https://replit.com/@AlphaXteam",
             "required": true
-        },
-        "XTEAM_API_KEY": {
-            "description": "Xteam API key get it using >> xteam.xyz",
-            "required": true,
-            "value": ""
+        
         },
         "SUDO": {
             "description": "Sudo mode is gives other controler for your bot , Leave it blank if you'r not using it , Number must be Like 94XXXXXXX,0",
@@ -34,7 +30,7 @@
         "CAPTION": {
             "description": "Customizable CAPTION Message! Type a caption for bot medias.",
             "required": false,
-            "value": "༺🚀 Mᴀᴅᴇ Bʏ Ａｌｐｈａ-Ｘ ❄️࿐"
+            "value": " Mᴀᴅᴇ Bʏ king amdA-X⚡⚡࿐"
         },
         "EXTRA_MENU_TITLE": {
             "description": "Customizable EXTRA MENU TITLE! Type a titile for show under the commands list menu.",
@@ -44,7 +40,7 @@
         "EXTRA_MENU_MESSAGE": {
             "description": "Customizable EXTRA MENU MESSAGE! Type a message for show under the commands list menu >> extra menu.",
             "required": false,
-            "value": "ʀᴇᴀᴅ ᴛʜᴇ ɢᴜɪᴅᴇ 🍁 \n\n```Alpha-X Bot - Alpha Userbot is Open Source software open to development. \nThe user is responsible for all consequences that may arise from incorrect or misuse. \nSince it is an open source project, anyone can copy the software, add and remove,\nand use it in a way that they customize. In addition, plug-in support enables users to \ninstall their own plugins to the original software and use them as they wish.\nUsing the bot out of purpose will explicitly ban you.\nUsage is entirely the user's responsibility, Alpha Userbot is an \ninfrastructure only. Just as the operating system is not responsible \nfor the work done with the programs that are installed later, Alpha-X \nis not responsible for the usage purpose and method of the users.\nMarketing Alpha-X for money, making it available or having any material value\nıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise\nthe user is responsible.```"
+            "value": "ʀᴇᴀᴅ ᴛʜᴇ ɢᴜɪᴅᴇ 🍁 \n\n```kingamda-x Bot - king amDA-X⚡⚡  Userbot is Open Source software open to development. \nThe user is responsible for all consequences that may arise from incorrect or misuse. \nSince it is an open source project, anyone can copy the software, add and remove,\nand use it in a way that they customize. In addition, plug-in support enables users to \ninstall their own plugins to the original software and use them as they wish.\nUsing the bot out of purpose will explicitly ban you.\nUsage is entirely the user's responsibility, Alpha Userbot is an \ninfrastructure only. Just as the operating system is not responsible \nfor the work done with the programs that are installed later, Alpha-X \nis not responsible for the usage purpose and method of the users.\nMarketing Alpha-X for money, making it available or having any material value\nıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise\nthe user is responsible.```"
         },
         "COMMAND_EMOJI": {
             "description": "Customizable COMMAND LIST EMOJI! Type a emoji for show with commands.",
@@ -84,7 +80,7 @@
         "BIO_NAME": {
             "description": "Customizable Auto Bio Name Message!, type a name ot somthing to show with auto bio.",
             "required": false,
-            "value": "━──❄️──╮• Ａｌｐｈａ-Ｘ •╭──❄️──━"
+            "value": "━──❄️──╮• kingamda-X  •╭──❄️──━"
        },
         "USER_NAME": {
             "description": "Enter your name here.",
