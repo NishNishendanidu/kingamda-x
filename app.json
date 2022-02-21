@@ -1,11 +1,11 @@
 {
     "name": "kingamda-x Whatsapp User Bot", 
     "description": "🚀 kingamda-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉 | World first fully customizable bot for WhatsApp.",
-    "logo": "https://i.ibb.co/mJqr3d8/Photo-1859807427.jpg",
+    "logo": "https://i.ibb.co/QYVDSSY/Photo-1859807427.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "alpha", "node.js", "fb", "wtzp", "userbot", "insta", "srilanka", "keywords", "team"],
     "repository": "https://github.com/NishNishendanidu/Alpha-X-WA-Bot-Installer-2.git",
     "website": "https://github.com/NishNishendanidu/Alpha-X-WA-Bot-Installer-2.git",
-    "success_url": "https://alpha-x.ml/wa-bot",
+    "success_url": "https://github.com/NishNishendanidu/Alpha-X-WA-Bot-Installer-2.git",
     "stack": "container",
     "env": {
         "_KING_AMDA-X_SESSION": {
