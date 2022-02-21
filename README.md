@@ -9,16 +9,16 @@
 
 <a href="https://github.com/SL-Alpha-X-Team"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
 
-<h1> 🔎 What is Alpha-X 🔎</h1>
+<h1> 🔎 What is kingamda-X 🔎</h1>
 
-**Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. ✨️
+**kingamda-X,** is a WhatsApp helper bot written by [nishen danidu ](https://github.com/Quiec) 
 
 ---
 owner nishen 
 
 
 ```
-Alpha-X Bot - Alpha Userbot is Open Source software open to development. 
+kkingamda-X Bot - kingamda-X  Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -28,7 +28,7 @@ Usage is entirely the user's responsibility, Alpha Userbot is an
 infrastructure only. Just as the operating system is not responsible 
 for the work done with the programs that are installed later, Alpha-X 
 is not responsible for the usage purpose and method of the users.
-Marketing Alpha-X for money, making it available or having any material value
+Marketing kingamda-X for money, making it available or having any material value
 ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
 the user is responsible.
 ```
@@ -37,25 +37,9 @@ the user is responsible.
 
 <h2> 📢 Guide 📢 </h2>
 
-> [Join For Support & Helps On Telegram.](https://t.me/AlphaX_SUPPORT)
 
-> [New Telegram Plugin Group. ](https://t.me/AlphaX_plugin)
 
-<a href="https://bit.ly/BOT_SUPPORT">ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a> |
-<a href="https://Wa.me/947772978164">ꜱʟ-ᴀʟᴘʜᴀ</a> |
-<a href="https://Wa.me/94763983965">ʜᴀɴꜱᴀᴋᴀʙʀᴏ |
 
-<p align="center"> 
-    
-  </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/fork">
-    <img src="https://img.shields.io/github/forks/SL-Alpha-X-Team/Alpha-X-WA-Bot?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/SL-Alpha-X-Team/Alpha-X-WA-Bot?style=social">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot">
