@@ -76,8 +76,7 @@ the user is responsible.
 ### `• For Termux Users 📲 [ RUN THIS CODE ON TERMUX ] 👇`
 > Need **2 PHONES** , 1 for get qr & other one for scan the qr.
 
-```bash
-bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
+)
 ```
 **• Watch tutorial** [Video](https://youtu.be/6PpRFnr2dSg) **to get qr using termux**
 
@@ -86,17 +85,16 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer-2)
             
 
-**• Watch tutorial** [Video](https://youtu.be/en4FLOsGRJY) **to create bot**
-
+https://camo.githubusercontent.com/a5c44d3d536c1714a53a0ed3c79049a1f93f122842dcc61f33504089177a0652/68747470733a2f2f692e6962622e636f2f6447665a6859442f375955612e676966
 ---
 
 <h2> 🔱 Hard Method 🔱 </h2>
 
 ```sh
-$ git clone https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot.git
+$ git clone https://github.com/NishNishendanidu/Alpha-X-WA-Bot-Installer-2.git
 $ cd Alpha-X-WA-Bot
-$ git clone https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer.git
-$ cd sdcard/Alpha-X-WA-Bot
+$ git clone https://github.com/NishNishendanidu/Alpha-X-WA-Bot-Installer-2.git
+$ cd sdcard/kingamda-X 
 $ npm i
 $ nano config.env
 // Create Config.env and edit it. 🚫
