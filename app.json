@@ -1,7 +1,7 @@
 {
     "name": "kingamda-x Whatsapp User Bot", 
     "description": "🚀 kingamda-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉 | World first fully customizable bot for WhatsApp.",
-    "logo": "https://i.ibb.co/QYVDSSY/Photo-1859807427.jpg",
+    "logo": "https://telegra.ph/Kingamda-X-02-21",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "alpha", "node.js", "fb", "wtzp", "userbot", "insta", "srilanka", "keywords", "team"],
     "repository": "https://github.com/NishNishendanidu/Alpha-X-WA-Bot-Installer-2.git",
     "website": "https://github.com/NishNishendanidu/Alpha-X-WA-Bot-Installer-2.git",
@@ -75,7 +75,7 @@
         "COMMAND_LIST_PIC": {
             "description": "Customizable COMMAND LIST MSG PICTURE PHOTO! Type a link of image.",
             "required": false,
-            "value": "https://telegra.ph/file/dc8e4edc7230cedbdec2c.jpg" 
+            "value": "https://telegra.ph/Kingamda-X-02-21-2" 
         },
         "BIO_NAME": {
             "description": "Customizable Auto Bio Name Message!, type a name ot somthing to show with auto bio.",
@@ -85,7 +85,7 @@
         "USER_NAME": {
             "description": "Enter your name here.",
             "required": true,
-            "value": ""
+            "value": "nishen"
        },
         "DOWNLOAD_SONG": {
             "description": "Customizable downloading song Message!.",
@@ -120,7 +120,7 @@
         "BOT_NAME": {
             "description": "Customizable BOT NAME! Type a Name for your bot.",
             "required": false,
-            "value": "≪━─━─━─━─🛡️─━─━─━─━≫\n          *❄️ Ａｌｐｈａ-Ｘ ❄️*\n        ╚╩══• •✠•❀•✠ • •══╩╝"
+            "value": "≪━─━─━─━─🛡️─━─━─━─━≫\n          *❄️ kingamda-X ❄️*\n        ╚╩══• •✠•❀•✠ • •══╩╝"
        },
         "WELCOME_GIF": {
             "description": "Customizable Welcome Message GIF! Type a link of gif.",
