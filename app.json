@@ -1,8 +1,8 @@
 {
-    "name": "kingamda-x Whatsapp User Bot", 
+    "name": "kingamda-x Whatsapp User Bot", "created by nishen[shenbro]"
     "description": "🚀 kingamda-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉 | World first fully customizable bot for WhatsApp.",
     "logo": "https://telegra.ph/Kingamda-X-02-21",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "alpha", "node.js", "fb", "wtzp", "userbot", "insta", "srilanka", "keywords", "team"],
+    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "kingamda-x", "node.js", "fb", "wtzp", "userbot", "insta", "srilanka", "keywords", "team"],
     "repository": "https://github.com/NishNishendanidu/Alpha-X-WA-Bot-Installer-2.git",
     "website": "https://github.com/NishNishendanidu/Alpha-X-WA-Bot-Installer-2.git",
     "success_url": "https://github.com/NishNishendanidu/Alpha-X-WA-Bot-Installer-2.git",
@@ -60,7 +60,7 @@
         "COMMAND_LIST_KEY": {
             "description": "Customizable COMMAND LIST KEY type a key to get all command list >> EX: alpha",
             "required": false,
-            "value": "alphaWA"
+            "value": "menu"
         },
         "ALIVE_MSG_KEY": {
             "description": "Customizable ALIVE MSG KEY type a key to check if bot work >> EX: alive",
